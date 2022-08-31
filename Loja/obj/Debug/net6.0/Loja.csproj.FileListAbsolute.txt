@@ -1,0 +1,15 @@
+C:\Users\othon.barbosa\testeUnitario\Loja\bin\Debug\net6.0\Loja.exe
+C:\Users\othon.barbosa\testeUnitario\Loja\bin\Debug\net6.0\Loja.deps.json
+C:\Users\othon.barbosa\testeUnitario\Loja\bin\Debug\net6.0\Loja.runtimeconfig.json
+C:\Users\othon.barbosa\testeUnitario\Loja\bin\Debug\net6.0\Loja.dll
+C:\Users\othon.barbosa\testeUnitario\Loja\bin\Debug\net6.0\Loja.pdb
+C:\Users\othon.barbosa\testeUnitario\Loja\obj\Debug\net6.0\Loja.csproj.AssemblyReference.cache
+C:\Users\othon.barbosa\testeUnitario\Loja\obj\Debug\net6.0\Loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\othon.barbosa\testeUnitario\Loja\obj\Debug\net6.0\Loja.AssemblyInfoInputs.cache
+C:\Users\othon.barbosa\testeUnitario\Loja\obj\Debug\net6.0\Loja.AssemblyInfo.cs
+C:\Users\othon.barbosa\testeUnitario\Loja\obj\Debug\net6.0\Loja.csproj.CoreCompileInputs.cache
+C:\Users\othon.barbosa\testeUnitario\Loja\obj\Debug\net6.0\Loja.dll
+C:\Users\othon.barbosa\testeUnitario\Loja\obj\Debug\net6.0\refint\Loja.dll
+C:\Users\othon.barbosa\testeUnitario\Loja\obj\Debug\net6.0\Loja.pdb
+C:\Users\othon.barbosa\testeUnitario\Loja\obj\Debug\net6.0\Loja.genruntimeconfig.cache
+C:\Users\othon.barbosa\testeUnitario\Loja\obj\Debug\net6.0\ref\Loja.dll
